@@ -17,4 +17,4 @@ You can read more about me on [my website](https://csswizardry.com/), and
 [follow me on Twitter](https://twitter.com/csswizardry).
 
 Speak soon,  
-![Harry](assets/img/sign.png)
+![Harry](assets/img/signature.png)
