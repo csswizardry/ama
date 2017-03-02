@@ -16,5 +16,7 @@ workflows, etc. Just keep it sensible, polite, and clean.
 You can read more about me on [my website](https://csswizardry.com/), and
 [follow me on Twitter](https://twitter.com/csswizardry).
 
+You can also check my [AMA session on Hashnode](https://hashnode.com/ama/with-harry-roberts-ciu89znz703oakb53khik6kmo), which I've hosted on 20th October, 2016.
+
 Speak soon,  
 ![Harry](assets/img/signature.png)
