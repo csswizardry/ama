@@ -4,7 +4,7 @@ Hi, I’m Harry. Use this repository to _ask me anything_.
 
 * [Ask a question](https://github.com/csswizardry/ama/issues/new)
 * [Read answers](https://github.com/csswizardry/ama/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed)
-* [Read great questions](https://github.com/csswizardry/ama/labels/great%20question)
+* [Read great questions](https://github.com/csswizardry/ama/issues?utf8=%E2%9C%93&q=label%3A%22great%20question%22%20)
 
 I get a lot of email, often asking questions that I either may have answered
 before, or whose answers might be of use to a wider audience. By asking your
